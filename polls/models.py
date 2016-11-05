@@ -1,5 +1,7 @@
 import datetime
 
+from django.http import Http404
+
 from django.db import models
 from django.utils import timezone
 
